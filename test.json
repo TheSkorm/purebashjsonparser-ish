@@ -1,0 +1,12 @@
+{
+    "key1": 11,
+    "key2": {
+        "key3": 33,
+        "key4": 
+        {"key5": "value5",
+        "key6": [66,67,68,{"objectinarray": "value"}]
+        },
+        "test": [99,98],
+        "key7": "value7"
+    }
+}
